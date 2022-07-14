@@ -1,0 +1,3 @@
+[submodule "amal"]
+	path = amal
+	url = https://github.com/Atchayaabi/amal.git
